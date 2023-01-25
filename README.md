@@ -1,3 +1,7 @@
+The aim of this project is to build a web app that will allow the users to search for a movie, Add movie to favourite and remove it from the favourite list. it was built using React.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
